@@ -11,3 +11,5 @@ dateCreated: 2025-07-14T09:06:43.588Z
 # AI
 
 LLM
+
+![alt text](image.png)
